@@ -70,7 +70,7 @@ section > p {
     background-color: white;
     color:black;
     box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.473) ;
-   
+    background-size: cover;
     background-attachment: fixed;
 }
 
@@ -120,9 +120,8 @@ a {
 }
 
 .redes >li {
-    padding: 5px;
-    margin-bottom: 5px;
-    height: 30px;
+    padding: 15px;
+    height: 50px;
     background-color: rgba(255, 188, 2, 0.315);
     box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.182);
     
